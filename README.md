@@ -1,10 +1,25 @@
-# zalo-linux-tutorial
+# zalo-linux-tutorial 🐧
 A quick tutorial on how to get the social media app Zalo working on Linux.
 
-# using a ported version of Zalo
-This version of Zalo was ported from Mac by realdtn2. Download tutorial [**here**](https://github.com/realdtn2/zalo-linux-unofficial-2024). 
+# doandat943's verison of Zalo 
+This verison of Zalo is a ported verison of Zalo Mac to Linux as a .AppImage file, Download tutorial [**here**](https://github.com/doandat943/zalo-for-linux)
+   - Some key features doesnt work
+   - Have both Vanilla Zalo & ZaloZaDark as an option
+   - Can incounter bugs
+
+# ducseul's verison of Zalo
+This version of Zalo was ported from Mac, Download tutorial [**here**](https://github.com/ducseul/zalo-linux-unofficial)
+  - Some key features doesnt work
+  - Can incounter bugs
+
+# ruskicode's verison of Zalo (Recommended)
+This version of Zalo was ported from Mac, made for  Download tutorial [**here**](https://github.com/ducseul/zalo-linux-unofficial)
+
+
+ # realdtn2's version of Zalo 
+This verison of Zalo was ported from Mac, Download tutorial [**here**](https://github.com/realdtn2/zalo-linux-unofficial-2024). 
    - Requires git & python
-   - Can't call using this version
+   - Some key features doesnt work
    - Can incounter bugs
    - Have both Vanilla Zalo & ZaloZaDark as an option
 
