@@ -3,7 +3,6 @@ A quick tutorial on how to get the social media app Zalo working on Linux.
 
 # using Bottles (recommended)
 Setting up Zalo using Bottles is another option you can try. I recommend using Bottles as it more user friendly & easier to use.
-   ###Step by step tutorial
    - [Download Zalo.exe](https://zalo.me/pc) (⚠️ You might need a chrome mask if your'e using firefox or firefox based browsers)
    - [Download Bottles](https://usebottles.com/)
    - Open Bottles, Click on the three dots button next to the search icon, navigate to preferences then click on runner & download the latest "Caffe" verison
