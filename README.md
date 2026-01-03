@@ -4,7 +4,6 @@ A quick tutorial on how to get the social media app Zalo working on Linux.
 # using Bottles (recommended)
 Setting up Zalo using Bottles is another option you can try. I recommend using Bottles as it more user friendly & easier to use, i would also recommend "Windows 7" as the windows version and the "Caffe" as the runner.
    - [Download Bottles](https://usebottles.com/)
-   - [Download Wine](https://www.winehq.org/)
    - [Tutorial Video on running Zalo with Bottles (Vietnamese)](https://youtu.be/Mx5OHwsKchU?si=jAp_Qsb-1ZVXGqei)
 
 # using ports of Zalo (not recommended)
