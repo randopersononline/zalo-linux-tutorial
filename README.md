@@ -1,6 +1,10 @@
 # zalo-linux-tutorial 🐧
 A quick tutorial on how to get the social media app Zalo working on Linux.
 
+<p align="center">
+  <img src="Untitled.png" alt="Logo" width="80%" />
+</p>
+
 # using Bottles (recommended)
 Setting up Zalo using Bottles is another option you can try. I recommend using Bottles as it more user friendly & easier to use.
    - [Download Zalo.exe](https://zalo.me/pc) (⚠️ You might need a chrome mask if your'e using firefox or firefox based browsers)
